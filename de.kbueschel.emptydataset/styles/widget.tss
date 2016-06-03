@@ -1,0 +1,44 @@
+'.emptyDataSet': {
+
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+
+    top: 0
+}
+
+
+'.emptyDataSet__content': {
+
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+
+	layout: 'vertical'
+}
+
+
+'.emptyDataSet__icon': {
+
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+
+    color: '#b0b0b0',
+
+    font: {
+
+        fontFamily: 'icomoon',
+        fontSize: 56
+    }
+}
+
+
+'.emptyDataSet__text': {
+
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    top: 20,
+    right: 20,
+    left: 20,
+
+    textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+    color: '#b0b0b0'
+}

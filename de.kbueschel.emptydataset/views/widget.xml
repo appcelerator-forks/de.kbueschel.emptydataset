@@ -1,0 +1,15 @@
+<Alloy>
+
+	<View class="emptyDataSet">
+
+		<View class="emptyDataSet__content">
+
+			<Label id="icon" class="emptyDataSet__icon" />
+
+			<Widget src="nl.fokkezb.html2as.widget" id="message" class="emptyDataSet__text" />
+
+		</View>
+
+	</View>
+
+</Alloy>

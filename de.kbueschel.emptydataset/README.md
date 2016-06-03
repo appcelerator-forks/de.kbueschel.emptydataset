@@ -1,6 +1,6 @@
-# Alloy *Empty DataSet* Widget [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/) [![Appcelerator Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://appcelerator.com/alloy/)
+# Alloy *Empty DataSet* Widget
 
-An Alloy widget providing an empty data set view
+You can find the README at [https://github.com/konstantinbueschel/de.kbueschel.emptydataset](https://github.com/konstantinbueschel/de.kbueschel.emptydataset)
 
 ## License
 
