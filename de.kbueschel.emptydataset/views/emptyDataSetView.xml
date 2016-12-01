@@ -1,0 +1,31 @@
+<Alloy>
+	
+	<View class="emptyDataSet">
+		
+		<View class="emptyDataSet__content">
+			
+			<View id="graphicsContainer" class="emptyDataSet__graphicsContainer">
+				
+				<Label id="iconLabel" class="emptyDataSet__icon" />
+				
+				<ImageView id="imageView" class="emptyDataSet__image" />
+				
+			</View>
+			
+			<Widget src="nl.fokkezb.html2as.widget" id="titleLabel" class="emptyDataSet__title" />
+			
+			<Widget src="nl.fokkezb.html2as.widget" id="descriptionLabel" class="emptyDataSet__description" />
+			
+			<View id="buttonContainer" class="emptyDataSet__buttonContainer">
+				
+				<Button id="button" class="emptyDataSet__button" onClick="handleButtonClick" autoStyle="true" />
+				
+				<ActivityIndicator id="loading" class="emptyDataSet__loading" />
+				
+			</View>
+			
+		</View>
+	
+	</View>
+
+</Alloy>

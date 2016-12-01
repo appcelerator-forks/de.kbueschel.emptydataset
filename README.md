@@ -1,6 +1,15 @@
 # Alloy *Empty DataSet* Widget [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/) [![Appcelerator Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://appcelerator.com/alloy/)
 
-An Alloy widget providing an empty data set view
+An Alloy widget providing an empty data set view. Inspired by [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+
+### Features
+
+* Shows auto-magically view with title, description and/or button with custom action if Alloy / Backbone collection is empty
+
+### To-Dos
+
+* Add example app
+* Add documentation
 
 ## License
 

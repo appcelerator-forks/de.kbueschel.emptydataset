@@ -1,0 +1,126 @@
+'.emptyDataSet': {
+
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+
+    top: 0,
+
+    backgroundColor: 'transparent',
+    opacity: 0.0
+},
+
+
+'.emptyDataSet__content': {
+
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+
+	layout: 'vertical'
+},
+
+
+'.emptyDataSet__graphicsContainer': {
+
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+},
+
+
+'.emptyDataSet__icon': {
+
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+	top: 0,
+
+    color: '#b0b0b0',
+
+    font: {
+
+        fontFamily: 'icomoon',
+        fontSize: 56
+    },
+},
+
+
+'.emptyDataSet__image': {
+
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+
+	top: 0,
+	right: 20,
+	left: 20,
+
+	backgroundColor: 'transparent',
+},
+
+
+'.emptyDataSet__image[platform=ios]': {
+
+	preventDefaultImage: true
+},
+
+
+'.emptyDataSet__title': {
+
+	width: Ti.UI.FILL,
+	height: Ti.UI.SIZE,
+	top: 20,
+	right: 20,
+	left: 20,
+
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	color: 'darkgray',
+	font: {
+
+		fontSize: 18,
+		fontWeight: 'bold'
+	},
+
+	visible: false
+},
+
+
+'.emptyDataSet__description': {
+
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    top: 20,
+    right: 20,
+    left: 20,
+
+    textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+    color: 'lightgray'
+},
+
+
+'.emptyDataSet__buttonContainer': {
+
+	width: Ti.UI.FILL,
+	height: 36,
+
+	top: 50,
+	visible: false
+},
+
+
+'.emptyDataSet__button': {
+
+	width: Ti.UI.SIZE,
+	height: 36,
+
+	borderRadius: 18,
+
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	verticalAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_CENTER
+},
+
+
+'.emptyDataSet__button--iconButton': {
+
+	font: {
+
+		fontFamily: 'icomoon',
+		fontSize: 20
+	}
+},

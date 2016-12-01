@@ -3,7 +3,7 @@
 	"name": "Empty DataSet",
 	"description" : "An Alloy widget providing an empty data set view",
 	"author": "Konstantin Büschel",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"copyright":"Copyright (c) 2016 Konstantin Büschel",
 	"license":"Apache License, Version 2.0",
 	"min-alloy-version": "1.0",
